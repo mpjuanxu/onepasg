@@ -1,0 +1,5 @@
+1) Copy <PAM31.py> into Python install directory: <directory>\Python27\Lib\site-packages
+2) Change Venue and Date at the beginning of <onePAbooking_pamie_ie_190312.py>, then run.
+3) When message “Press <ENTER> to continue” pop out, login with Sinpass manually
+4) After login Sinpass account, press OK to continue
+5) Book done
